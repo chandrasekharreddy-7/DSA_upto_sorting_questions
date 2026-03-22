@@ -1,5 +1,4 @@
 /* 3. Write a function for dequeue operation. */
-/* 2. Write a function for enqueue operation. */
 #include <stdio.h>
 #define max 4
 int queue[max];

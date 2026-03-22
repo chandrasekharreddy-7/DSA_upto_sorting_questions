@@ -1,3 +1,4 @@
+/* 1. Write a C program to implement queue using array. */
 #include <stdio.h>
 #define max 4
 int queue[max];
